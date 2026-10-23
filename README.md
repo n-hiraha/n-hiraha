@@ -8,9 +8,7 @@ AI エージェントと組んで、企画から運用まで回すプロダク�
 - AI エージェントと組んだ開発と、AI エージェントそのものの開発
 - 少人数のチームを、自分も手を動かしながら引っぱる (テックリード・技術顧問・外部 CTO)
 
-[![skills](https://skillicons.dev/icons?i=ts,go,python,java,react,gcp,cloudflare,aws,docker,kubernetes,linux,vim)](https://skillicons.dev)
-
-React Router・Hono・Stripe・Claude Code もよく使います。Google Cloud Professional Cloud Architect を持っています。
+React Router・Hono・Stripe・Claude Code をよく使います。Google Cloud Professional Cloud Architect を持っています。
 
 ### 研修
 
