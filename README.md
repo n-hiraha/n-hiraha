@@ -6,7 +6,7 @@ AI エージェントと組んで、企画から運用まで回すプロダク�
 
 - React Router・Go・Cloudflare・Google Cloud で、UI から API、クラウドまでフルスタックに作る
 - AI エージェントと組んだ開発と、AI エージェントそのものの開発
-- 少人数のチームを、自分も手を動かしながら引っぱる (テックリード・技術顧問・外部 CTO)
+- 少人数のチームを、自分も手を動かしながら引っぱる (テックリード)
 
 React Router・Hono・Stripe・Claude Code をよく使います。Google Cloud Professional Cloud Architect を持っています。
 
