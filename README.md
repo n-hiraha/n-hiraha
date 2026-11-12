@@ -24,10 +24,4 @@ Go・TypeScript・React・Google Cloud をよく使います。
 - AWS・Google Cloud・Azure の基礎研修、AWS 実践研修・マイクロサービス研修
 - Docker・Kubernetes 基礎研修、アジャイル開発研修
 
-### 書いたもの
-
-- [Django で Stripe の決済システムを導入する](https://zenn.dev/var/articles/65785548e340fc) (Zenn、2021年12月)
-- [Django の Stripe 実装で Webhook を受け取る](https://zenn.dev/var/articles/9db03d6d644bea) (Zenn、2022年1月)
-- [Next.js(TypeScript) + Prettier + ESLint で環境構築](https://zenn.dev/var/articles/616b6c6ae78c02) (Zenn、2022年1月)
-
 以前は [Vim](https://github.com/n-hiraha/nvim-config) が好きでした。
