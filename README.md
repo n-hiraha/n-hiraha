@@ -1,14 +1,19 @@
 ## 平原尚樹 / Naoki Hirahara
 
-AI エージェントと組んで、企画から運用まで回すプロダクトエンジニアです。[株式会社 BlueAI](https://blueai.co.jp/) の代表取締役 CEO として、経営をしながら自分でもプロダクトを作っています。
+Go と TypeScript (React) で、仕様から運用までを担うソフトウェアエンジニアです。開発経験は約6年で、受託開発会社でのエンジニア兼 PM を経て、2024年に株式会社 BlueAI を創業しました。
 
 ### 得意なこと
 
-- React Router・Go・Cloudflare・Google Cloud で、UI から API、クラウドまでフルスタックに作る
-- AI エージェントと組んだ開発と、AI エージェントそのものの開発
-- 少人数のチームを、自分も手を動かしながら引っぱる (テックリード)
+- Go で API と基盤を設計して実装し、本番で運用する
+- 信頼できないコードを隔離して動かす実行基盤を、k3s と gVisor で作る
+- 金額や在庫のように正しさが前提のデータを、突き合わせて数字で確かめる
+- AI に実装を任せ、別のモデルのレビューと E2E テストを通してから取り込む
 
-React Router・Hono・Stripe・Claude Code をよく使います。Google Cloud Professional Cloud Architect を持っています。
+Go・TypeScript・React・Google Cloud をよく使います。
+
+### オープンソース
+
+- Go 本体の crypto/x509 に修正がマージされました ([CL 858981](https://go.dev/cl/858981))
 
 ### 研修
 
@@ -21,7 +26,6 @@ React Router・Hono・Stripe・Claude Code をよく使います。Google Cloud 
 
 ### 書いたもの
 
-- [note](https://note.com/naoki_hirahara)
 - [Django で Stripe の決済システムを導入する](https://zenn.dev/var/articles/65785548e340fc) (Zenn、2021年12月)
 - [Django の Stripe 実装で Webhook を受け取る](https://zenn.dev/var/articles/9db03d6d644bea) (Zenn、2022年1月)
 - [Next.js(TypeScript) + Prettier + ESLint で環境構築](https://zenn.dev/var/articles/616b6c6ae78c02) (Zenn、2022年1月)
